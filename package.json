@@ -10,9 +10,9 @@
   ],
   "main": "src/scss/index.scss",
   "scripts": {
-    "build": "@udock/build-tools sass"
+    "build": "udock-build-tools sass"
   },
   "devDependencies": {
-    "@udock/build-tools": "^0.0.1"
+    "@udock/build-tools": "^0.0.2"
   }
 }
