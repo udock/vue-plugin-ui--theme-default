@@ -1,7 +1,6 @@
 {
   "name": "@udock/vue-plugin-ui--theme-default",
   "description": "@udock/vue-plugin-ui--theme-default",
-  "private": true,
   "version": "0.0.1",
   "files": [
     "dist",
@@ -14,5 +13,6 @@
   },
   "devDependencies": {
     "@udock/build-tools": "^0.0.2"
-  }
+  },
+  "license": "MIT"
 }
